@@ -1,2 +1,1 @@
-# bpt-pack
-test deploy pack
+DUCK F*UCK
